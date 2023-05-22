@@ -25,8 +25,8 @@ public class LessonJavaOne {
         System.out.println("x != y = " + (x != y) );
         System.out.println("x > y = " + (x > y) );
         System.out.println("x < y = " + (x < y) );
-        System.out.println("b >= y = " + (y >= x) );
-        System.out.println("b <= y = " + (y <= x) );
+        System.out.println("y >= x = " + (y >= x) );
+        System.out.println("y <= x = " + (y <= x) );
 
         //Переполнение Byte
         byte a = 126;
